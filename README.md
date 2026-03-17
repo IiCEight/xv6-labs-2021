@@ -1,3 +1,5 @@
+# This repo is deprecated! Please refer https://github.com/IiCEight/xv6-labs-2024 for a new version.
+
 # MIT6.S081 Lab
 ## Lab 1
 ### 1.1 Sleep (Accepted)
